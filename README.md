@@ -9,9 +9,13 @@
 - 2) Handling Missing Values: Imputing missing values with the mean of the respective features.
 - 3) Model Fitting and Prediction: Fitting the pipeline to the data and predicting labels using the respective models.
 
-#The Data Set
+# The Data Set
+This dataset contains credit card transactions made by European cardholders in the year 2023. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
 
-
+id: Unique identifier for each transaction
+V1-V28: Anonymized features representing various transaction attributes (e.g., time, location, etc.)
+Amount: The transaction amount
+Class: Binary label indicating whether the transaction is fraudulent (1) or not (0)
   
 
 # EDA
@@ -19,6 +23,8 @@
 - I generated histograms to visualize the data distribution.
 - I conducted an analysis to detect outliers in the dataset.
 - I checked for multicollinearity among the features.
+
+  
   
   
 
