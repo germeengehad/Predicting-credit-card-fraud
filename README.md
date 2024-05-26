@@ -9,3 +9,16 @@
 - 2) Handling Missing Values: Imputing missing values with the mean of the respective features.
 - 3) Model Fitting and Prediction: Fitting the pipeline to the data and predicting labels using the respective models.
 
+#The Data Set
+
+
+  
+
+# EDA
+- I researched methods for handling missing values and identified duplicates in the dataset.
+- I generated histograms to visualize the data distribution.
+- I conducted an analysis to detect outliers in the dataset.
+- I checked for multicollinearity among the features.
+  
+  
+
