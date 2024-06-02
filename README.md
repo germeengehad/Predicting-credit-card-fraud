@@ -42,10 +42,10 @@ I made a pipeline for the Kmeans model and GaussianMixture model to be apple fro
 - Saving the Model
 - Loading the Model
 
- # Creating A Fast Api 
- - Develop My FastAPI Application
- - Run My FastAPI Application
- - Creat a readme file of My Api File 
+ # Creating A Fast Api And Docker File
+ - Develop My FastAPI  and Docker Application 
+ - Run My FastAPI Application And 
+ - Creat a readme file of My Api And Docker File 
 
     
 
